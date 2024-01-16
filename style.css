@@ -1,0 +1,48 @@
+h1{
+    font-size: 30px;
+    color: rgb(1, 192, 255);
+}
+body{
+     text-align: center;
+    background-color: yellow;
+   
+}
+P{
+    text-align: center;
+    color: rgb(1, 192, 255);
+    font-size: 20px;
+}
+h2 {
+    color: rgb(1, 192, 255);
+    font-size: 30px;
+}
+h3{
+    color: rgb(1, 192, 255);
+    font-size: 30px;  
+}
+h4 {
+    color: rgb(1, 192, 255);
+    font-size: 30px;
+}
+h5 {
+    color: rgb(1, 192, 255);
+    font-size: 30px;
+}  
+h6 {
+    color: rgb(1, 192, 255);
+    font-size: 30px;
+} 
+a {
+ text-decoration: dotted;
+    color: yellow;
+    font-size: 20px;
+}
+header{
+    background-color: rgb(1, 192, 255);
+}
+footer{
+     background-color: rgb(1, 192, 255);
+      font-size: 20px;
+      color: yellow;
+      text-align: left;
+}
